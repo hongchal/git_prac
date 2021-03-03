@@ -7,6 +7,7 @@ int main(){
 	printf("i don't know what the bug!\n");
 	printf("i got the bug!\n");
 	printf("and add new function!\n");
+	printf("wtf\n");
 	return 0;
 }
 
