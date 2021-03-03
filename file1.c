@@ -10,6 +10,8 @@ int main(){
 	printf("wtf\n");
 	printf("wtf in newBranch\n");
     printf("rebase1");
+	printf("now we should rebase!\n");
+
 	return 0;
 }
 
