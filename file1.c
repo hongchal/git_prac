@@ -9,7 +9,7 @@ int main(){
 	printf("and add new function!\n");
 	printf("wtf\n");
 	printf("wtf in newBranch\n");
-
+    printf("rebase1");
 	return 0;
 }
 
