@@ -11,7 +11,7 @@ int main(){
 	printf("wtf in newBranch\n");
     printf("rebase1");
 	printf("now we should rebase!\n");
-
+    printf("bugfixed!\n")
 	return 0;
 }
 
