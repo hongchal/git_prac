@@ -2,5 +2,5 @@
 
 int main() {
     printf("bugFixed!\n");
-    printf("this is bugbugbug\n");
+    printf("i'm newBranch and i fix the bug\n")
 }
