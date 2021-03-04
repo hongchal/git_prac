@@ -2,4 +2,5 @@
 
 int main() {
     printf("bugFixed!\n");
+    printf("this is bugbugbug\n");
 }
